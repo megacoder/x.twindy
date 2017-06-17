@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<TwindyProperties>
+  <TracktionScheme name="/home/reynolds/.twindy/DarkBlue.tracktionscheme" value="/home/reynolds/.twindy/DarkBlue.tracktionscheme"/>
+  <StartupPrograms/>
+  <LeftButton1 name="Firefox" value="firefox"/>
+  <LeftButton2 name="Gedit" value="gedit"/>
+  <LeftButton3 name="Run App..." value=""/>
+  <LeftButton4 name="Left 4" value=""/>
+  <LeftButton5 name="Left 5" value=""/>
+  <LeftButton6 name="Left 6" value=""/>
+  <LeftButton7 name="Left 7" value=""/>
+  <RightButton1 name="XTerm" value="xterm -bg &quot;#A0A0BB&quot;"/>
+  <RightButton2 name="eterm-jtr" value="eterm-jtr"/>
+  <RightButton3 name="eterm-rgb" value="eterm-rgb"/>
+  <RightButton4 name="Run App..." value=""/>
+  <RightButton5 name="Right 5" value=""/>
+  <RightButton6 name="Right 6" value=""/>
+  <RightButton7 name="Right 7" value=""/>
+  <GlobalFont name="DS9 Computer" value="DS9 Computer"/>
+  <Workspace name="." value=".">
+    <SubProperty name="Workspace 1" value="/home/reynolds/.twindy/DrWho.tracktionscheme"/>
+  </Workspace>
+  <ClockIncludeSeconds name="ClockIncludeSeconds" value="TRUE"/>
+  <ClockUse24HourClock name="ClockUse24HourClock" value="TRUE"/>
+  <ClockMonthDisplayedFirst name="ClockMonthDisplayedFirst" value="TRUE"/>
+  <ClockMonthDateSeparator name="ClockMonthDateSeparator" value="/"/>
+  <LocalisationFile name="LocalisationFile" value=""/>
+</TwindyProperties>
